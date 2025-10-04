@@ -1,5 +1,11 @@
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
+				#use binary search
+				#check if the middle boundary is within the length of the nums
+				#also check if the preceeding/proceeding numbers are decreasing/increasing
+				#when the pointers overlap, return the left or right pointer as they should be at the peak
+
+
         l,r = 0, len(nums)-1
 
         if len(nums) <= 1:
