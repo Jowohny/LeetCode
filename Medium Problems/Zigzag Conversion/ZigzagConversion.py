@@ -20,8 +20,6 @@ class Solution:
                 ment = -1
             currId += ment
 
-
-        
         for zig in zigzag: 
             for i in zig:
                 result += i
