@@ -1,3 +1,5 @@
+#BAD SOLUTION, WILL WORK ON LATER WHEN HAVE MORE KNOWLEDGE
+
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         #use backtracking to generate all possible permutations from the given list
