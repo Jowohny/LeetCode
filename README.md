@@ -7,3 +7,4 @@ keep track of my leetcode solutions \
 12/2: Doing a couple extra for tomorrow \
 12/23: Pregaming for vegas tmr
 1/18/2026: Flu stuff
+1/23/2026: pre flight prep
